@@ -1,5 +1,5 @@
 <?php
 
-funtion messega(){
-  echo "Hello World";
+function menssage(){
+    echo "Hola desde local hecho cambio para hacer pull request ";
 }
